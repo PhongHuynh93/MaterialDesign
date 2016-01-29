@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- cũng tạo hình tròn nhưng có hiệu ứng la khi ta nhấp vô sẽ hiện những gợn sóng lăn tăn-->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorPrimaryDark">
+
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/colorPrimary"></solid>
+        </shape>
+    </item>
+</ripple>
